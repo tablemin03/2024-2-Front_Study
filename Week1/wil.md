@@ -17,7 +17,7 @@ HTML은 Hyper**Text** Markup**Language**로, MarkupLanguage는 양식을 통일�
  </body>
  </html>
 ```
-
+ 
 ### HyperText
 Hyper는 '초월', '넘어서'의 뜻을 가지고 있다. 결국 HyperText라고 하면 텍스트를 넘어 다른 페이지로 갈 수 있게 되는 것이다. 인터넷을 사용하다 보면 파란색 텍스트를 통해 다른 페이지로 넘어가기도 하는데, 그게 HyperText인 것이다.
 
