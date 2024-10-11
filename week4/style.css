@@ -1,0 +1,66 @@
+#counting-num {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#tenIncrease {
+    background-color: red;
+    color:black;
+    border-color : red;
+    border-radius: 10px;
+}
+#tenDecrease {
+    background-color: greenyellow;
+    color:black;
+    border-color : greenyellow;
+    border-radius: 10px;
+}
+#increase {
+    background-color: tomato;
+    color:black;
+    border-color : tomato;
+    border-radius: 10px;
+}
+#decrease {
+    background-color: green;
+    color:black;
+    border-color : green;
+    border-radius: 10px;
+}
+#reset {
+    background-color: black;
+    color: white;
+    border-color : black;
+    border-radius: 10px;
+}
+
+#reset:active{
+    outline-color: transparent;
+    outline-style:solid;
+    box-shadow: 0 0 0 4px #5a01a7;
+    transition: 0.7s;
+}
+#increase:active{
+    outline-color: transparent;
+    outline-style:solid;
+    box-shadow: 0 0 0 4px #5a01a7;
+    transition: 0.7s;
+}
+#tenIncrease:active{
+    outline-color: transparent;
+    outline-style:solid;
+    box-shadow: 0 0 0 4px #5a01a7;
+    transition: 0.7s;
+}
+#decrease:active{
+    outline-color: transparent;
+    outline-style:solid;
+    box-shadow: 0 0 0 4px #5a01a7;
+    transition: 0.7s;
+}
+#tenDecrease:active{
+    outline-color: transparent;
+    outline-style:solid;
+    box-shadow: 0 0 0 4px #5a01a7;
+    transition: 0.7s;
+}
