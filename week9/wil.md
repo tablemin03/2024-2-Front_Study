@@ -71,6 +71,8 @@ npx를 사용하는 것은 React 애플리케이션을 초기화하는 권장방
 ### npm과 npx의 차이점
 1. **npm (Node Package Manager)**: npm는 Node.js 패키지 관리자로, Node.js를 설치할 때 함께 제공된다. npm을 사용하여 JavaScript 패키지를 설치, 관리 및 실행할 수 있다. 이 도구를 사용하여 프로젝트의 의존성 패키지를 설치하고 스크립트를 실행할 수 있다.
 2. **npx**: npx는 npm 5.2.0 버전 이상에서 포함된 도구로, npm 패키지를 실행할 수 있는 도구이다. npx를 사용하면 로컬에 설치된 패키지 또는 원격 패키지를 간편하게 실행할 수 있다. 주로 전역으로 설치하지 않고 필요한 패키지를 실행할 때 사용된다. 예를 들어, npx create-react-app my-app와 같이 create-react-app 패키지를 실행할 수 있다.
+
+
 참고 <https://velog.io/@boyeon_jeong/npx-create-react-appnpm%EA%B3%BC-npx%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90>
 
 배포링크 <https://create-react-app-seven-iota.vercel.app/>
