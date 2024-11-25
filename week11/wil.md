@@ -42,3 +42,10 @@ useEffect는 외부의 효과를 랜더링과 분리하기 위해 존재한다.
 이런 외부의 부수 효과는 useEffect에 감싸줘야한다는 말과 같은 의미이다.
 외부 효과는 DOM 조작에 직접적으로 관여하지 않는다.
 
+# 과제
+Todo 대신에 User의 API를 받았다.
+Todo 변수들의 이름을 User로 바꿔주고 화면에 뿌려주는 Print라는 컴포넌트를 만들어줬다.
+
+Users를 props로 받아주고 id, name, username, email을 받아서 화면에 나타내줬다.
+
+Style은 linear-gradient를 사용해서 배경을 꾸며줬다.
